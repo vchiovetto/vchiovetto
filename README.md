@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vanessa Chiovetto
 - 💻 Quality Assurance at Sky.One Solutions
 - 💍 Marriage
-- 🇩🇪 Living in Munich/Germany
 - 🇧🇷 Brazilian
+- 🇩🇪 Living in Munich/Germany
 - 🛩 Love to travel
 
 <!---
