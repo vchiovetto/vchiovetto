@@ -2,7 +2,7 @@
 - 💻 Quality Assurance at Sky.One Solutions
 - 💍 Marriage
 - 🇩🇪 Living in Munich/Germany
-- 🇧🇷 Brazilean
+- 🇧🇷 Brazilian
 - 🛩 Love to travel
 
 <!---
